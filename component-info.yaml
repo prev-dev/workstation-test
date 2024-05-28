@@ -17,7 +17,7 @@ metadata:
     github.com/project-slug: backstage/backstage
     backstage.io/techdocs-ref: dir:.
     lighthouse.com/website-url: https://backstage.io
-    google.com/cloudworkstations-config: projects/prev-alto-workstations/locations/us-east4/workstationClusters/prev-alto-ws-cluster/workstationConfigs/prev-alto-ws-config
+    google.com/cloudworkstations-config: projects/prev-alto-workstation/locations/us-east4/workstationClusters/prev-alto-ws-cluster/workstationConfigs/prev-alto-ws-config
 spec:
   type: library
   owner: CNCF
