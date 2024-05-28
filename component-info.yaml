@@ -3,9 +3,9 @@ kind: Component
 metadata:
   name: backstage
   description: Backstage application.
+  owner: prev
   annotations:
     google.com/cloudworkstations-config: projects/prev-alto-workstations/locations/us-east4/workstationClusters/prev-alto-ws-cluster/workstationConfigs/prev-alto-ws-config
 spec:
   type: website
   lifecycle: development
-  owner: prev
