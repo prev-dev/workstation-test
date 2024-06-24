@@ -5,6 +5,9 @@ metadata:
   description: utility pod
   annotations:
     'backstage.io/kubernetes-id': utility
-spec:
+  spec:
+  type: pod
+  owner: users
+  lifecycle: experimental
   
   
