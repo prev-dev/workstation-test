@@ -5,6 +5,7 @@ metadata:
   description: utility pod
   annotations:
     backstage.io/kubernetes-id: utility
+    backstage.io/kubernetes-label-selector: 'app.kubernetes.io/app=utility'
 spec:
   type: pod
   owner: users
